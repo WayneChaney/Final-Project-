@@ -1,5 +1,28 @@
-This folder should contain the .cpp and .h files for the library. 
+ECE 387 FINAL PROJECT 
 
-If backward compatibility is needed, source code should be placed in the library root folder and in a "utilyt" folder. 
+VIDEO  https://www.youtube.com/watch?v=4AfpRerFk6c
 
-Check out the [library specification](https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification) for more details. 
+*************************WIRES***************************
+============================================================
+INSTRUCTIONS WIRE THE BMP180 TO CORDINATED WITH THE EXAMPLE 
+BMP180      ARDUINO R3
+VIN     ->   3.5V    
+GND     ->   GND
+SLC     ->   SLC
+SDA     ->   SDA
+*************************DONE***************************
+============================================================
+
+GUESS THE ALTITUDE -> HIGHET JUMPER 
+CHANGE THE DELAY TO 500000 => TO GIVE PEOPLE TIME
+GIVE THE ARDUINO AND THE BMP180 TO THE INDVUSIUL
+PERSON STICK THEIR ARM STRAIGHT OUT AND THEN JUMP AS HIGH AS THEY CAN.
+
+WHO EVER HAS THE HIGHEST ALTITUDE WINS;
+
+THE HOTTEST BREATH TEST GAME
+INSTRUCTIONS 
+CHANGE THE DELAY TO 100000 => TO GIVE PEOPLE TIME
+BRUSH TEETH, BLOW BREATH ON BMP180 . 
+
+WHO EVER HAS THE HOTTEST BREATH WINS AND GOES AND BRUSHES THEIR TEETH.
